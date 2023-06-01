@@ -1,0 +1,36 @@
+{
+	"description": "Project configuration file",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"coverView": false,
+		"condition": false,
+		"enhance": false,
+		"showShadowRootInWxmlPanel": false,
+		"packNpmRelationList": [],
+		"ignoreUploadUnusedFiles": true
+	},
+	"compileType": "miniprogram",
+	"condition": {},
+	"editorSetting": {
+		"tabIndent": "tab",
+		"tabSize": 2
+	},
+	"libVersion": "2.30.1",
+	"appid": "wx985086e1b476ea8f",
+	"projectname": "pulldown-refresher",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"packOptions": {
+		"ignore": [],
+		"include": []
+	}
+}

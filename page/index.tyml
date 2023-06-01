@@ -1,0 +1,17 @@
+<scroll-view 
+	scroll-y="{{true}}" 
+	refresher-enabled="{{true}}" 
+	refresher-triggered="{{triggered}}"
+	bindrefresherrefresh="refresh"
+>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+	<view style="background: #333; height: 100rpx; margin-bottom: 1px"></view>
+</scroll-view>

@@ -1,0 +1,12 @@
+{
+  "projectname": "demo",
+  "i18n": true,
+  "description": "demo",
+  "miniprogramRoot": "./",
+  "dependencies": {
+    "BaseKit": "3.3.10",
+    "MiniKit": "3.2.1",
+    "BizKit": "3.3.0"
+  },
+  "baseversion": "2.11.9"
+}
